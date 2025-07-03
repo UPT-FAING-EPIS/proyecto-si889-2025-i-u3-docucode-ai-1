@@ -238,9 +238,9 @@ Instancias EC2 creadas en AWS us-east-1 (N. Virginia):
 
 ![image](https://github.com/user-attachments/assets/e89796b6-9378-4f7b-bf1e-305d917df7b8)
 
-![image](https://github.com/user-attachments/assets/b8b27d26-06e3-44b1-8f3e-6504286a5e0d)
+![image](https://github.com/user-attachments/assets/a2eda741-b7c5-4157-99d1-e7281c890111)
 
-![image](https://github.com/user-attachments/assets/3c7359ab-0081-4918-ab79-f68f4342dbe4)
+![image](https://github.com/user-attachments/assets/501ce366-5738-4f96-84e9-bb3413a4b05d)
 
 
 ### Archivos utilizados:
