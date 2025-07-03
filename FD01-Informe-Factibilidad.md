@@ -4,227 +4,149 @@
 
 ![./media/media/image1.png](./media/logo-upt.png)
 
-**UNIVERSIDAD PRIVADA DE TACNA**
+# UNIVERSIDAD PRIVADA DE TACNA
+## FACULTAD DE INGENIERIA
+### Escuela Profesional de Ingeniería de Sistemas
 
-**FACULTAD DE INGENIERIA**
+# Proyecto *DocuCode-AI*
 
-**Escuela Profesional de Ingeniería de Sistemas**
+Curso: *PATRONES DE SOFTWARE*  
+Docente: *PATRICK JOSE CUADROS QUIROGA*
 
-**Proyecto *{Nombre de Proyecto}***
+**Integrantes:**
 
-Curso: *{Nombre de Asignatura}*
+- Jose Luis Jarro Cachi - 2020067148
+- Farley Rodrigo Eduardo Viveros Blanco - 2020066896
+- Ronal Daniel Lupaca Mamani - 202006146
 
-Docente: *{Nombre de Docente}*
+Tacna – Perú  
+2025
 
-Integrantes:
+---
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+# Sistema DocuCode-AI  
+## Informe de Factibilidad  
+**Versión 2.0**
 
-**Tacna – Perú**
+---
 
-***{Año}***
+## Control de Versiones
 
-**  
-**
-</center>
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+| Versión | Hecha por | Revisada por | Aprobada por | Fecha       | Motivo           |
+|---------|-----------|--------------|--------------|-------------|------------------|
+| 1.0     | MPV       | ELV          | ARV          | 3/04/2025   | Versión Original |
+| 2.0     | MPV       | ELV          | ARV          | 30/05/2020  | Mejora           |
 
-Sistema *{Nombre del Sistema}*
+---
 
-Informe de Factibilidad
+# Índice General
 
-Versión *{1.0}*
+1. [Descripción del Proyecto](#descripción-del-proyecto)
+2. [Riesgos](#riesgos)
+3. [Análisis de la Situación actual](#análisis-de-la-situación-actual)
+4. [Estudio de Factibilidad](#estudio-de-factibilidad)
+    - [Factibilidad Técnica](#factibilidad-técnica)
+    - [Factibilidad económica](#factibilidad-económica)
+    - [Factibilidad Operativa](#factibilidad-operativa)
+    - [Factibilidad Legal](#factibilidad-legal)
+    - [Factibilidad Social](#factibilidad-social)
+    - [Factibilidad Ambiental](#factibilidad-ambiental)
+5. [Análisis Financiero](#análisis-financiero)
+6. [Conclusiones](#conclusiones)
 
-|CONTROL DE VERSIONES||||||
-| :-: | :- | :- | :- | :- | :- |
-|Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+---
+# Análisis Financiero
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+El plan financiero de DocuCode-AI se basa en la estimación de beneficios académicos y operativos frente a los gastos asociados al desarrollo, despliegue y mantenimiento del sistema. Aunque no tiene fines comerciales en esta etapa, este análisis permite justificar la inversión de tiempo, esfuerzo y recursos, así como anticipar situaciones financieramente inadecuadas.
 
-# **INDICE GENERAL**
+Se han proyectado beneficios durante cinco años, considerando principalmente el ahorro de tiempo docente en la evaluación manual de prácticas de programación, contrastando con el bajo costo de mantener la infraestructura tecnológica del sistema.
 
-[1. Descripción del Proyecto](#_Toc52661346)
+## Justificación de la Inversión
 
-[2. Riesgos](#_Toc52661347)
+La inversión está plenamente justificada por el impacto positivo que genera el sistema en la dinámica educativa. Automatizar la revisión de código y la generación de documentación técnica mejora la productividad docente, garantiza una evaluación más objetiva y proporciona retroalimentación inmediata al estudiante.
 
-[3. Análisis de la Situación actual](#_Toc52661348)
+### 5.1.1 Beneficios del Proyecto
 
-[4. Estudio de Factibilidad](#_Toc52661349)
+#### Beneficios Tangibles
 
-[4.1 Factibilidad Técnica](#_Toc52661350)
+- Reducción del tiempo invertido por los docentes en revisión de código fuente (de horas a minutos).
+- Disminución de errores humanos y subjetividad en las evaluaciones.
+- Eliminación del uso de papel y reducción de recursos físicos.
+- Ahorro en contratación de asistentes académicos o evaluadores externos.
 
-[4.2 Factibilidad económica](#_Toc52661351)
+#### Beneficios Intangibles
 
-[4.3 Factibilidad Operativa](#_Toc52661352)
+- Mejora significativa en la eficiencia del área académica de programación.
+- Aumento en la calidad y confiabilidad de las evaluaciones.
+- Disponibilidad inmediata de reportes e historial por estudiante.
+- Valor agregado a la experiencia formativa del estudiante.
+- Impulso a la transformación digital de la enseñanza universitaria.
+- Alineamiento con tendencias de automatización y educación inteligente.
 
-[4.4 Factibilidad Legal](#_Toc52661353)
+## 5.1.2 Criterios de Inversión
 
-[4.5 Factibilidad Social](#_Toc52661354)
+A pesar de que el proyecto DocuCode-AI no tiene fines comerciales, es posible evaluar su viabilidad económica mediante indicadores adaptados al contexto académico, utilizando como beneficio el ahorro operativo, el tiempo docente y el valor institucional generado por la automatización de tareas clave en el proceso de enseñanza de la programación.
 
-[4.6 Factibilidad Ambiental](#_Toc52661355)
+### 5.1.2.1 Relación Beneficio/Costo (B/C)
 
-[5. Análisis Financiero](#_Toc52661356)
+La relación B/C compara el valor presente de los beneficios proyectados frente a los costos estimados.
 
-[6. Conclusiones](#_Toc52661357)
+**Resultado obtenido:**  
+B/C = 16.24
 
+Esto indica que por cada sol invertido en la operación del sistema, se generan aproximadamente S/ 16.24 en beneficios académicos, tales como ahorro de tiempo docente, reducción de uso de papel, y mejora en la calidad del servicio educativo.
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+| Indicador | Resultado | Criterio de aceptación |
+|-----------|-----------|-----------------------|
+| B/C       | 16.24     | B/C > 1 → Proyecto viable |
 
-**<u>Informe de Factibilidad</u>**
+**Conclusión:** El proyecto es claramente rentable y justificado en términos educativos.
 
-1. <span id="_Toc52661346" class="anchor"></span>**Descripción del Proyecto**
+### 5.1.2.2 Valor Actual Neto (VAN)
 
-    1.1. Nombre del proyecto
+El VAN representa el valor neto de los beneficios descontados, considerando una tasa social de descuento del 3%, menos la inversión inicial.
 
-    1.2. Duración del proyecto
+**Resultado obtenido:**  
+VAN = S/ 18,558.64
 
-    1.3. Descripción
+Este valor refleja los ahorros y mejoras acumuladas que el sistema ofrecerá durante los próximos 5 años en comparación con el costo total de operación.
 
-        En que consiste el proyecto/importancia del mismo, contexto en que se va desenvolver
+| Indicador | Resultado   | Criterio de aceptación |
+|-----------|-------------|-----------------------|
+| VAN       | S/ 18,558.64| VAN > 0 → Proyecto viable |
 
-    1.4. Objetivos
+**Conclusión:** La inversión inicial se recupera rápidamente y el sistema genera un valor significativo para la institución.
 
-        1.4.1 Objetivo general
-        1.4.2 Objetivos Específicos
-            Para cada objetivo específico se indicara que se va a lograr
+### 5.1.2.3 Tasa Interna de Retorno (TIR)
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+La TIR indica la rentabilidad relativa del proyecto en comparación con un costo de oportunidad (COK) estimado para el sector educativo entre 3% y 10%.
 
-2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
+**Resultado obtenido:**  
+TIR = 76.45%
 
-    Señale los riesgos que pudieran afectar el éxito del proyecto.}*
+Esto evidencia un alto retorno del valor educativo en relación con los recursos invertidos.
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+| Indicador | Resultado | Criterio de aceptación |
+|-----------|-----------|-----------------------|
+| TIR       | 76.45%    | TIR > COK → Proyecto viable |
 
-3. <span id="_Toc52661348" class="anchor"></span>**Análisis de la Situación actual**
+**Conclusión:** El sistema DocuCode-AI representa una inversión de alta eficiencia, con un retorno institucional considerable.
 
-    3.1. Planteamiento del problema
+---
 
-            Describa antecedentes y situación actual, explicando la problemática y/o necesidad que será resuelta con el proyecto propuesto.
+# Conclusiones
 
-    3.2. Consideraciones de hardware y software
+El análisis de factibilidad realizado para el proyecto **DocuCode-AI: Sistema Web para la Evaluación de Código y Generación de Diagramas UML** demuestra que su desarrollo e implementación son plenamente viables desde múltiples enfoques.
 
-            Hardware y software posibles para la implementación, se analizara lo que existe y es alcanzable, se evaluara que tecnología se puede > utilizar en el proyecto.
+Desde el punto de vista técnico, el sistema puede ser construido utilizando tecnologías ampliamente conocidas (**PHP, Python, MySQL, OpenAI API, PlantUML**), sobre una infraestructura de nube asequible como **Elastika**, lo cual garantiza su funcionalidad, escalabilidad y compatibilidad.
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+En términos económicos, el proyecto requiere una inversión inicial baja, estimada entre **S/ 200.00 a S/ 250.00 anuales**, principalmente en servicios de nube y APIs. A cambio, ofrece beneficios académicos que superan los **S/ 3,600.00 por año**, generando una relación **Beneficio/Costo de 16.24**, un **VAN de S/ 18,558.64** y una **TIR del 76.45%**, indicadores que lo posicionan como altamente rentable desde una perspectiva institucional y educativa.
 
-4. <span id="_Toc52661349" class="anchor"></span>**Estudio de
-    Factibilidad**
+En cuanto a la factibilidad operativa, se concluye que el sistema puede ser adoptado fácilmente por docentes universitarios sin requerir una curva de aprendizaje elevada, gracias a su interfaz amigable y accesible vía navegador.
 
-    Describir los resultados que esperan alcanzar del estudio de factibilidad, las actividades que se realizaron para preparar la evaluación de factibilidad y por quien fue aprobado.
+A nivel legal, social y ambiental, no se identifican barreras que impidan su implementación. Al contrario, el sistema promueve prácticas sostenibles, fomenta la digitalización de la enseñanza y respeta la privacidad de los datos mediante cifrado SSL.
 
-    4.1. <span id="_Toc52661350" class="anchor"></span>Factibilidad Técnica
+**En resumen**, el proyecto **DocuCode-AI** es técnica, económica, operativa, legal, social y ambientalmente viable. Su implementación representa una mejora significativa en la evaluación del aprendizaje de programación, aportando eficiencia, objetividad y valor pedagógico al proceso educativo.
 
-        El estudio de viabilidad técnica se enfoca en obtener un entendimiento de los recursos tecnológicos disponibles actualmente y su aplicabilidad a las necesidades que se espera tenga el proyecto. En el caso de tecnología informática esto implica una evaluación del hardware y software y como este puede cubrir las necesidades del sistema propuesto.
+---
 
-        Realizar una evaluación de la tecnología actual existente y la posibilidad de utilizarla en el desarrollo e implantación del sistema.*
-
-        Describir acerca del hardware (equipos, servidor), software (aplicaciones, navegadores, sistemas operativos, dominio, internet, infraestructura de red física, etc.
-
-    4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica
-
-        El propósito del estudio de viabilidad económica, es determinar los beneficios económicos del proyecto o sistema propuesto para la organización, en contraposición con los costos.
-        Como se mencionó anteriormente en el estudio de factibilidad técnica wvaluar si la institución (departamento de TI) cuenta con las herramientas necesarias para la implantación del sistema y evaluar si la propuesta requiere o no de una inversión inicial en infraestructura informática.
-        Se plantearán los costos del proyecto.
-        Costeo del Proyecto: Consiste en estimar los costos de los recursos Humanos, materiales o consumibles y/o máquinas) directos para completar las actividades del proyecto}.*
-
-        Definir los siguientes costos:
-
-        4.2.1. Costos Generales
-
-                Los costos generales son todos los gastos realizados en accesorios y material de oficina y de uso diario, necesarios para los procesos, tales como, papeles, plumas, cartuchos de impresora, marcadores, computadora etc. Colocar tabla de costos.
-
-        4.2.2. Costos operativos durante el desarrollo 
-        
-                Evaluar costos necesarios para la operatividad de las actividades de la empresa durante el periodo en el que se realizara el proyecto. Los costos de operación pueden ser renta de oficina, agua, luz, teléfono, etc.
-
-        4.2.3. Costos del ambiente
-
-                Evaluar si se cuenta con los requerimientos técnicos para la implantación del software como el dominio, infraestructura de red, acceso a internet, etc.
-
-        4.2.4. Costos de personal
-
-                Aquí se incluyen los gastos generados por el recurso humano que se necesita para el desarrollo del sistema únicamente.
-
-                No se considerará personal para la operación y funcionamiento del sistema.
-
-                Incluir tabla que muestra los gastos correspondientes al personal.
-
-                Indicar organización y roles. Indicar horario de trabajo del personal.
-
-        4.2.5.  Costos totales del desarrollo del sistema
-
-                {Totalizar costos y realizar resumen de costo final del proyecto y la forma de pago.
-
-    4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
-
-        Describir los beneficios del producto y si se tiene la capacidad por parte del cliente para mantener el sistema funcionando y garantizar el buen funcionamiento y su impacto en los usuarios. Lista de interesados.
-
-    4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
-
-        Determinar si existe conflicto del proyecto con restricciones legales como leyes y regulaciones del país o locales relacionadas con seguridad, protección de datos, conducta de negocio, empleo y adquisiciones.
-
-    4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
-
-        Evaluar influencias y asuntos de índole social y cultural como el clima político, códigos de conducta y ética*
-
-    4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
-
-        Evaluar influencias y asuntos de índole ambiental como el impacto y repercusión en el medio ambiente.
-
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-5. <span id="_Toc52661356" class="anchor"></span>**Análisis Financiero**
-
-    El plan financiero se ocupa del análisis de ingresos y gastos asociados a cada proyecto, desde el punto de vista del instante temporal en que se producen. Su misión fundamental es detectar situaciones financieramente inadecuadas.
-    Se tiene que estimar financieramente el resultado del proyecto.
-
-    5.1. Justificación de la Inversión
-
-        5.1.1. Beneficios del Proyecto
-
-            El beneficio se calcula como el margen económico menos los costes de oportunidad, que son los márgenes que hubieran podido obtenerse de haber dedicado el capital y el esfuerzo a otras actividades.
-            El beneficio, obtenido lícitamente, no es sólo una recompensa a la inversión, al esfuerzo y al riesgo asumidos por el empresario, sino que también es un factor esencial para que las empresas sigan en el  mercado e incorporen nuevas inversiones al tejido industrial y social de las naciones.
-            Describir beneficios tangibles e intangibles*
-            Beneficios tangibles: son de fácil cuantificación, generalmente están relacionados con la reducción de recursos o talento humano.
-            Beneficios intangibles: no son fácilmente cuantificables y están relacionados con elementos o mejora en otros procesos de la organización.
->
-            Ejemplo de beneficios:
-
-            - Mejoras en la eficiencia del área bajo estudio.
-            - Reducción de personal.
-            - Reducción de futuras inversiones y costos.
-            - Disponibilidad del recurso humano.
-            - Mejoras en planeación, control y uso de recursos.
-            - Suministro oportuno de insumos para las operaciones.
-            - Cumplimiento de requerimientos gubernamentales.
-            - Toma acertada de decisiones.
-            - Disponibilidad de información apropiada.
-            - Aumento en la confiabilidad de la información.
-            - Mejor servicio al cliente externo e interno
-            - Logro de ventajas competitivas.
-            - Valor agregado a un producto de la compañía.
-        
-        5.1.2. Criterios de Inversión
-
-            5.1.2.1. Relación Beneficio/Costo (B/C)
-
-                En base a los costos y beneficios identificados se evalúa si es factible el desarrollo del proyecto. 
-                Si se presentan varias alternativas de solución se evaluará cada una de ellas para determinar la mejor solución desde el punto de vista del > retorno de la inversión
-                El B/C si es mayor a uno, se acepta el proyecto; si el B/C es igual a uno es indiferente aceptar o rechazar el proyecto y si el B/C es menor a uno se rechaza el proyecto
-
-            5.1.2.2. Valor Actual Neto (VAN)
-            
-                Valor actual de los beneficios netos que genera el proyecto. Si el VAN es mayor que cero, se acepta el proyecto; si el VAN es igual a cero es indiferente aceptar o rechazar el proyecto y si el VAN es menor que cero se rechaza el proyecto
-
-            5.1.2.3 Tasa Interna de Retorno (TIR)*
-                Es la tasa porcentual que indica la rentabilidad promedio anual que genera el capital invertido en el proyecto. Si la TIR es mayor que el costo de oportunidad se acepta el proyecto, si la TIR es igual al costo de oportunidad es indiferente aceptar o rechazar el proyecto, si la TIR es menor que el costo de oportunidad se rechaza el proyecto
-
-                Costo de oportunidad de capital (COK) es la tasa de interés que podría haber obtenido con el dinero invertido en el proyecto
-
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
-
-6. <span id="_Toc52661357" class="anchor"></span>**Conclusiones**
-
-Explicar los resultados del análisis de factibilidad que nos indican si el proyecto es viable y factible.
