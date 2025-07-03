@@ -283,7 +283,7 @@ A continuación se presentan los diagramas UML y de arquitectura obtenidos media
 
 ### 📌 Diagrama de Casos de Uso
 
-![Casos de Uso](./imgdiagrama/image-20.png)
+![image](https://github.com/user-attachments/assets/1e2848fd-92fa-46d9-8dd1-bb3b58069f20)
 
 ---
 
@@ -307,8 +307,8 @@ A continuación se presentan los diagramas UML y de arquitectura obtenidos media
 - **CU06 - Ver historial de análisis**  
   ![CU06 - Actividad](./imgdiagrama/image-11.png)
 
-- **CU07 - Autenticarse con Google**  
-  ![CU07 - Actividad](./imgdiagrama/image-12.png)
+- **CU07 - Autenticarse con GitHub**  
+![image](https://github.com/user-attachments/assets/4373a7c0-9954-452e-b7b4-872f6e3eed40)
 
 ---
 
@@ -332,8 +332,8 @@ A continuación se presentan los diagramas UML y de arquitectura obtenidos media
 - **CU06 - Ver historial de análisis**  
   ![CU06 - Secuencia](./imgdiagrama/image-18.png)
 
-- **CU07 - Autenticarse con Google**  
-  ![CU07 - Secuencia](./imgdiagrama/image-19.png)
+- **CU07 - Autenticarse con GitHub**  
+![image](https://github.com/user-attachments/assets/78c02a1f-3f76-4fe0-89e2-7cc7a22f5431)
 
 ---
 
