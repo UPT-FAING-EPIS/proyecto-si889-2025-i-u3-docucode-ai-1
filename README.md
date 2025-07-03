@@ -345,7 +345,7 @@ A continuación se presentan los diagramas UML y de arquitectura obtenidos media
 
 ### 📌 Diagrama de Objetos
 
-![Diagrama de Objetos](./imgdiagrama/image-29.png)
+![image](https://github.com/user-attachments/assets/8cb0989a-78d9-4031-b180-5fe6892e5034)
 
 ---
 
