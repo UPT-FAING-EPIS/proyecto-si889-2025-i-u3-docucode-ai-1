@@ -15,7 +15,6 @@ Docente: *PATRICK JOSE CUADROS QUIROGA*
 
 **Integrantes:**
 
-- Jose Luis Jarro Cachi - 2020067148
 - Farley Rodrigo Eduardo Viveros Blanco - 2020066896
 - Ronal Daniel Lupaca Mamani - 202006146
 
