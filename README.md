@@ -333,7 +333,7 @@ A continuación se presentan los diagramas UML y de arquitectura obtenidos media
   ![CU06 - Secuencia](./imgdiagrama/image-18.png)
 
 - **CU07 - Autenticarse con GitHub**  
-![image](https://github.com/user-attachments/assets/78c02a1f-3f76-4fe0-89e2-7cc7a22f5431)
+  ![CU07 - Secuencia](https://github.com/user-attachments/assets/78c02a1f-3f76-4fe0-89e2-7cc7a22f5431)
 
 ---
 
