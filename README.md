@@ -215,6 +215,7 @@ http://localhost/docucode-ai
 |------------|---------|---------------|-----------------|
 | Farley Rodrigo Viveros Blanco | X | Y | Z |
 | Ronal Daniel Lupaca Mamani | X | Y | Z |
+| Piero Paja De la Cruz | X | Y | Z |
 
 ---
 
@@ -269,6 +270,7 @@ Instancias EC2 creadas en AWS us-east-1 (N. Virginia):
 
 - Farley Rodrigo Eduardo Viveros Blanco - 2020066896
 - Ronal Daniel Lupaca Mamani - 202006146
+- Piero Alexander Paja De la Cruz - 2020067576
 
 ---
 
